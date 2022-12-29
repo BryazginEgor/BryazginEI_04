@@ -33,7 +33,7 @@ class Class1
         else if (oper == '-')
         {
             total = a - b;
-            Console.WriteLine("Разность " + a + " и " + b + " равна " + total + ".");
+            Console.WriteLine("" + total + ".");
         }
 
         else if (oper == '*')
